@@ -1,4 +1,3 @@
 
-//TODO: continue this
-
-export default function (connection: any, options?:any) : () => void;
+declare function e(config:any, configurer:any | Function): () => void;
+export = e;

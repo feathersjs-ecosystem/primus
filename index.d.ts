@@ -1,2 +1,4 @@
 
-export default function (config:any, configurer:any | Function): () => void;
+declare function e(config:any, configurer:any | Function): () => void;
+
+export = e;
