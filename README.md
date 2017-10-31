@@ -1,5 +1,7 @@
 # feathers-primus
 
+> _Important:_ For Feathers v3.0.0 or later use the `@feathersjs/primus` module instead of `feathers-primus`.
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-primus.svg)](https://greenkeeper.io/)
 
 [![Build Status](https://travis-ci.org/feathersjs/feathers-primus.png?branch=master)](https://travis-ci.org/feathersjs/feathers-primus)
