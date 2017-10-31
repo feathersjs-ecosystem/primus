@@ -10,6 +10,10 @@ export default function (config, configurer) {
   return function () {
     const app = this;
 
+    if (app.version && app.version >= '3.0.0') {
+      throw new Error(`feathers-primus is not compatible with Feathers v${app.version}. Use the latest version of @feathersjs/primus instead.`);
+    }
+
     app.configure(socket('primus'));
 
     // Monkey patch app.setup(server)
