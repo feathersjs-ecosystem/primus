@@ -1,13 +1,10 @@
 # @feathersjs/primus
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/primus.svg)](https://greenkeeper.io/)
+> __Important:__ The code for this module has been moved into the main Feathers repository at [feathersjs/feathers](https://github.com/feathersjs/feathers) ([package direct link](https://github.com/feathersjs/feathers/tree/master/packages/socketio)). Please open issues and pull requests there.
 
 [![Build Status](https://travis-ci.org/feathersjs/primus.png?branch=master)](https://travis-ci.org/feathersjs/primus)
-[![Test Coverage](https://codeclimate.com/github/feathersjs/primus/badges/coverage.svg)](https://codeclimate.com/github/feathersjs/primus/coverage)
-[![Dependency Status](https://img.shields.io/david/feathersjs/primus.svg?style=flat-square)](https://david-dm.org/feathersjs/primus)
-[![Download Status](https://img.shields.io/npm/dm/@feathersjs/primus.svg?style=flat-square)](https://www.npmjs.com/package/@feathersjs/primus)
 
-> The Feathers Primus real-time API provider
+The Feathers Primus real-time API provider
 
 ## Installation
 
